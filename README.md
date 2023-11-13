@@ -6,7 +6,6 @@
 ### Atividade
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJuliaAS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaJuliaAS&show_icons=true&theme=default)
 
 ## Tecnologias que eu uso no meu dia 💻
